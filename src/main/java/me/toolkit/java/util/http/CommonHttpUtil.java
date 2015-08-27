@@ -33,14 +33,6 @@ public class CommonHttpUtil {
 
 
 
-    public static String get(){
-        String content="";
-        for(int i=0;i<count;i++){
-
-        }
-        return content;
-    }
-
 
     /**
      *
